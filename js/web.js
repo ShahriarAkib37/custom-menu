@@ -5,13 +5,13 @@ let h2 = document.querySelector(`h2`);
 function welcome (){
 
   
-    if( h2.innerHTML == `hi i am Akib`){
+    if( h2.innerHTML == `Wellcome`){
 
-    h2.innerHTML = ` Wellcome`;
+    h2.innerHTML = ` hi i am Akib`;
 
     } else{
 
-        h2.innerHTML = `hi i am Akib`;
+        h2.innerHTML = `Wellcome`;
 
     } 
 
